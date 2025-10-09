@@ -1,18 +1,19 @@
-body {
-  margin: 0;
+.main {
+  margin-top: 100px;
 }
 
-.red {
-  background: red;
-  height: 100px;
+.google {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  display: block;
 }
-.blue {
-  background: blue;
-  height: 100px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-.green {
-  background: green;
-  height: 100px;
+.search-bar {
+  border-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  display: block;
 }
