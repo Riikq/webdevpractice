@@ -1,19 +1,11 @@
-.main {
-  margin-top: 100px;
-}
-
-.google {
-  margin-top: 30px;
-  margin-bottom: 15px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 300px;
-  display: block;
-}
-.search-bar {
-  border-radius: 7px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 400px;
-  display: block;
+.twitter {
+  color: #0f1419;
+  border: 1px solid #cfd9de;
+  border-radius: 20px;
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-weight: bold;
 }
