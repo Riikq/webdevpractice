@@ -1,20 +1,15 @@
-.twitter {
+.logo-img {
   display: block;
-  color: #0f1419;
-  border: 1px solid #cfd9de;
-  border-radius: 20px;
-  background: white;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 20px;
-  padding-left: 20px;
-  font-weight: bold;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 300px;
+  margin-bottom: 10px;
 }
-
 .search-field {
   display: block;
   width: 400px;
   margin-left: auto;
+  margin-right: auto;
   margin-bottom: auto;
   line-height: 24px;
   padding-top: 10px;
@@ -23,4 +18,21 @@
   padding-right: 30px;
   border: 1px solid #dfe1e5;
   border-radius: 24px;
+}
+
+.btn {
+  display: block;
+  color: #0f1419;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  border: none;
+  border-radius: 4px;
+  background: #dfe1e5;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  font-size: 14px;
 }
