@@ -2,10 +2,16 @@ body {
   margin: 20px;
 }
 
+.blue-border {
+  border: 1px dotted blue;
+}
 .card {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
-  border: 3px dotted blue;
   padding: 20px;
+  justify-content: space-around;
 }
 .profile {
   width: 150px;
