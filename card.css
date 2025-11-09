@@ -2,6 +2,11 @@ body {
   margin: 20px;
 }
 
+.card {
+  display: flex;
+  border: 3px dotted blue;
+  padding: 20px;
+}
 .profile {
   width: 150px;
 }
