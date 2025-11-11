@@ -13,6 +13,9 @@ body {
   padding: 20px;
   justify-content: space-around;
   text-align: center;
+  border-bottom: 6px solid #d8cefe;
+  background-color: #ddebf8;
+  color: #2b2839;
 }
 .profile {
   width: 150px;
