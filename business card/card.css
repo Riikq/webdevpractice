@@ -20,8 +20,6 @@ body {
   border-bottom: 8px solid #9a8c98;
   background-color: #4a4e69;
   color: #f2e9e4;
-  animation-name: myAnimation;
-  animation-duration: 4s;
 }
 .hover:hover {
   color: #4a4e69;
