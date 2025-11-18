@@ -1,5 +1,6 @@
 body {
-  color: white;
+  color: #82a5ca;
+  text-align: center;
   background-image: url("./images/galaxy.webp");
   background-size: cover;
   font-family: "Orbitron", sans-serif;
@@ -7,19 +8,13 @@ body {
 #spacex {
   width: 100px;
 }
-.title {
-  border: 3px dotted blue;
-  color: white;
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 .btn {
   padding: 6px 12px;
   background: white;
   border: none;
   font-family: inherit;
+  color: #82a5ca;
+  font-weight: bold;
 }
 .udr {
   border-bottom: 4px solid white;
