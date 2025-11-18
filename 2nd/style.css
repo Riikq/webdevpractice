@@ -1,12 +1,16 @@
 body {
+  margin: 0;
   color: #82a5ca;
   text-align: center;
-  background-image: url("./images/galaxy.webp");
-  background-size: cover;
   font-family: "Orbitron", sans-serif;
 }
 #spacex {
   width: 100px;
+}
+#hero {
+  background-image: url("./images/galaxy.webp");
+  background-size: cover;
+  padding: 10px 0 40px 0;
 }
 .btn {
   padding: 6px 12px;
@@ -18,4 +22,7 @@ body {
 }
 .udr {
   border-bottom: 4px solid white;
+}
+.main{
+
 }
