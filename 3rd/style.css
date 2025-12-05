@@ -4,6 +4,9 @@ body {
   color: white;
   background-color: #a2d2ff;
 }
+h1, h2, h3, h4, p {
+  text-shadow: 2px 2px black;
+}
 .title {
 
 }
