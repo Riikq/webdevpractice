@@ -1,8 +1,8 @@
 body {
-  font-family: "Happy Monkey";
+  font-family: "Happy Monkey", cursive;
   text-align: center;
   color: white;
-  background-color: #a2d2ff;
+  background: linear-gradient(#a2d2ff, #efb0c9);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -42,7 +42,8 @@ h1, h2, h3, h4, p {
   border: 3px solid white;
   border-radius: 10px;
   margin: auto;
-  background-image: url("./images/gift-present.jpg"); 
+  background: linear-gradient(lightskyblue, white);
+  background-image: url("./images/gift-present.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -63,4 +64,13 @@ h1, h2, h3, h4, p {
 }
 #gift-img-cheers:hover {
   background-image: url("./images/cheers.gif")
+}
+#footer {
+  width: 400px;
+  margin: 40px auto 20px;
+  justify-content: center;
+  font-style: italic;
+}
+a {
+  color: white;
 }
