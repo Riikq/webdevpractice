@@ -28,7 +28,7 @@ Route::post('/register', Register::class)
 // LOGOUT
 Route::post('/logout', Logout::class)
     ->middleware('auth')
-    ->name('login');
+    ->name('logout');
 
 // LOGIN
 Route::view('/login', 'auth.login')
